@@ -47,15 +47,6 @@ except URLError as e:
 
 streamlit.write('The user entered ', fruit_choice)
 
-#import requests
-
-#streamlit.text(fruityvice_response.json())
-
-# write your own comment -what does the next line do? 
-
-# write your own comment - what does this do?
-
-#dont run anything past here
 streamlit.stop()
 
 import snowflake.connector
